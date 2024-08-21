@@ -66,7 +66,7 @@ const Home: React.FC = () => {
             </div>
             <button onClick={() => handleAnswer(true)} className={styles.Greenbutton}>True</button>
             <button onClick={() => handleAnswer(false)} className={styles.Redbutton}>False</button>
-            <button className={styles.button}> <a href="http://localhost:3000/info/page">find more info </a></button>
+            <button className={styles.button}> <a href="https://brainquestions.netlify.app/info/page">find more info </a></button>
           </div>
         )}
       </main>
