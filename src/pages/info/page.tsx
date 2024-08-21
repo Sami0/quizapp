@@ -3,7 +3,7 @@ import styles from  './Home.module.css'
 
 export default function Page() {
     return <div className={styles.container}>
-          <button> <a className={styles.a} href="http://localhost:3000/">back to quiz page </a></button>
+          <button> <a className={styles.a} href="https://brainquestions.netlify.app/">back to quiz page </a></button>
         <h1>braincells info </h1>
         <p>Sources of the info below  are <a className={styles.a} href="https://en.wikipedia.org/wiki/Electroencephalography">wikipedia</a> and <a className={styles.a} href="https://www.mayoclinic.org/tests-procedures/eeg/about/pac-20393875">the mayo clinic </a>
         </p>
