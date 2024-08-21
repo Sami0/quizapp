@@ -6,6 +6,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  font-size: 1.5rem;
+  line-height: 2;
 }
 
 .main {
@@ -81,4 +83,14 @@
 .p{padding: 30px;
   margin :50px;
 
+}
+.a{background :#0070f3;
+color:white;
+font-size: 25px;}
+
+.point{
+background :#0070f3;
+color:white;
+padding: 15px;
+margin :50px;
 }
